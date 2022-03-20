@@ -6,3 +6,5 @@
 * OVH METHODS
 * TCP METHODS
 * VULN LIST
+
+#i will be releasing some of those while i still can
