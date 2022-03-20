@@ -7,4 +7,4 @@
 * TCP METHODS
 * VULN LIST
 
-#i will be releasing some of those while i still can
+<h4 align="center">i will be releasing some of those while i still can</h4>
